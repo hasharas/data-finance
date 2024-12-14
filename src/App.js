@@ -1,10 +1,10 @@
 import React from 'react';
-import Analytics from './components/Analytics';
-import Cards from './components/Cards';
-import Footer from './components/Footer';
-import Hero from './components/Hero';
-import Navbar from './components/Navbar';
-import Newsletter from './components/Newsletter';
+import Analytics from '../src/component/Analytics.jsx';
+import Cards from '../src/component/Cards.jsx';
+import Footer from '../src/component/Footer.jsx';
+import Hero from '../src/component//Hero.jsx';
+import Navbar from '../src/component/Navbar.jsx';
+import Newsletter from '../src/component/Newsletter.jsx';
 
 function App() {
   return (
